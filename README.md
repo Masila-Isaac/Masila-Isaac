@@ -8,5 +8,5 @@ Hi there 👋
 - 💬 Ask me about coding and programing.
 - 📫 How to reach me: masilaisaacmim@gmail.com.
 - 😄 Pronouns:He/Him.
-- ⚡ Fun fact:I commit most of my free time in learning the new trends in programming and codding
+- ⚡ Fun fact:I commit most of my free time in learning the new trends in programming and coding
 
