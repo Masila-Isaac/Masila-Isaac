@@ -1,14 +1,14 @@
-Hi there 👋
+🖥️ I’m currently working on building custom e-commerce websites and data science projects.
 
+🤝 I’m looking to collaborate on coding, Django-based web apps, and data-driven projects.
 
-- 🔭 I’m currently working on an online course in trading.
-- 🌱 I’m currently learning basic programming skills.
-- 👯 I’m looking to collaborate on projects associated with coding and programming.
-- 🤔 I’m looking for help with codding and programing.
-- 💬 Ask me about coding and programing.
-- 📫 How to reach me: mbusyaisaac@gmail.com.
-- 😄 Pronouns:He/Him.
-- ⚡ Fun fact:I commit most of my free time in learning the new trends in programming and coding
+🛠️ I’m looking for help with refining my coding skills and implementing advanced data science techniques.
+
+🌱 I’m currently learning Django, Flutter, and AI-driven app development.
+
+💬 Ask me about web development, data science, and trading automation.
+
+⚡ Fun fact I’m always exploring new tech trends and optimizing my projects for better performance.
 
 
 
